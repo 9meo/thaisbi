@@ -1,6 +1,4 @@
-### README for GitHub Repository: ThaiSBi – A Thai Social Bias Dataset for Large Language Models
 
----
 
 # ThaiSBi: A Thai Social Bias Dataset for Large Language Models
 
